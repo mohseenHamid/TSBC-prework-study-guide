@@ -1,5 +1,4 @@
 # Prework Study Guide Webpage
-
 ## Description
 
 A site to write/store prework notes to keep organised and on track
